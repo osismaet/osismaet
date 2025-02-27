@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Olivia (she/her), a first year student at University of California, Irvine studying Informatics!
 <!--
 **osismaet/osismaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
